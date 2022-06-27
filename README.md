@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Data Science & APIs**
 
-- 👨‍💻 All of my projects are available at [Here](Here)
+
 
 - 📫 How to reach me **khalid.alghamdi1055@gmail.com**
 
